@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Flask_and_React.iml" filepath="$PROJECT_DIR$/.idea/Flask_and_React.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automate_the_boring_stuff/.idea/automate_the_boring_stuff.iml" filepath="$PROJECT_DIR$/../automate_the_boring_stuff/.idea/automate_the_boring_stuff.iml" />
     </modules>
   </component>
 </project>
